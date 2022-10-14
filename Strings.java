@@ -1,4 +1,4 @@
-// Strings is a type of object that can store text.
+// 'Strings' is a type of object that can store text.
 
 public class Strings {
     public static void main(String[] args) {
