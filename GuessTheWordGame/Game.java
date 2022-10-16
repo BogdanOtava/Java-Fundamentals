@@ -1,4 +1,4 @@
-package GuessTheWord;
+package GuessTheWordGame;
 
 import java.util.Scanner;
 

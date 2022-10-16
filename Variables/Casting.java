@@ -1,8 +1,12 @@
-// Casting is when you assing a value of one primitive data type to another.
-// There are two types of casting: widening casting & narrowing casting.
+package Variables;
 
-// Widening casting is done automatically when passing smaller size type to a larger size type.
-// Narrowing casting is done manually by specifing the type.
+/*
+Casting is when you assing a value of one primitive data type to another.
+There are two types of casting: widening casting & narrowing casting.
+
+Widening casting is done automatically when passing smaller size type to a larger size type.
+Narrowing casting is done manually by specifing the type.
+*/
 
 public class Casting {
     public static void main(String[] args) {
