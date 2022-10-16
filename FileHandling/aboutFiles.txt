@@ -1,0 +1,4 @@
+    File handling is an important part of any application.
+    It allows the programmer to access data/information from outside the script.
+
+    Java has several methods for creating, reading, updating, and deleting files.
