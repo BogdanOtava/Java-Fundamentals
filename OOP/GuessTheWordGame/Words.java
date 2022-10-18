@@ -1,4 +1,4 @@
-package GuessTheWordGame;
+package OOP.GuessTheWordGame;
 
 import java.util.Random;
 
