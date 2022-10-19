@@ -13,7 +13,9 @@ OOP has several advantages over procedural programming:
 ## **Components**
 
 The two main components of OOP are: **objects** & **classes**.
+
 Objects are an instance of the class. They inherit all the variables & methods from the class.
+
 Classes are a template or a blueprint for the object. Classes have attributes and methods.
 
 ### **Attributes**
