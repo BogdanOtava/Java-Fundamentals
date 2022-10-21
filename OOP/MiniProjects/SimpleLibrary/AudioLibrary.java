@@ -1,4 +1,4 @@
-package OOP.SimpleLibrary;
+package OOP.MiniProjects.SimpleLibrary;
 
 // Class that inherits attributes and methods from 'Library' class.
 public class AudioLibrary extends Library {

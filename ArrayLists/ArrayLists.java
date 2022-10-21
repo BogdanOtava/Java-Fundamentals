@@ -1,7 +1,7 @@
 package ArrayLists;
 
 /*
-'ArrayList' is a resizable Array. It has to be imported from 'java.util.ArrayList'.
+'ArrayList' is a resizable Array.
 The difference between those two is that the size of the built-in Array cannot be modified, while element can be added or removed from an ArrayList.
 */
 

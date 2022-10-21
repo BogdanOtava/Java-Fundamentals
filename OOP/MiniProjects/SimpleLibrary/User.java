@@ -1,4 +1,4 @@
-package OOP.SimpleLibrary;
+package OOP.MiniProjects.SimpleLibrary;
 
 import java.time.LocalDate;
 import java.time.Period;

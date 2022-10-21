@@ -1,7 +1,7 @@
 package HashMaps;
 
 /*
-'HashMaps' are similar to 'Dictionaries' in Python. It has to be imported from 'java.util.HashMap'.
+'HashMaps' are similar to 'Dictionaries' in Python.
 These store 'key/value' pairs.
 */
 

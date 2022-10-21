@@ -1,4 +1,4 @@
-package OOP.SimpleLibrary;
+package OOP.MiniProjects.SimpleLibrary;
 
 public class Library {
 

@@ -1,4 +1,4 @@
-package OOP.GuessTheWordGame;
+package OOP.MiniProjects.GuessTheWordGame;
 
 import java.util.Scanner;
 
