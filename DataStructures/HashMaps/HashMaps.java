@@ -1,10 +1,5 @@
 package HashMaps;
 
-/*
-'HashMaps' are similar to 'Dictionaries' in Python.
-These store 'key/value' pairs.
-*/
-
 import java.util.HashMap;
 
 public class HashMaps {

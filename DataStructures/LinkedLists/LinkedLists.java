@@ -1,12 +1,5 @@
 package LinkedLists;
 
-/*
-ArrayLists and LinkedLists are very similar. 
-They both contain many objects of the same type, and share the same methods because both classes implement the 'List' interface.
-
-While ArrayLists are used for storing and accessing data, LinkedLists are mainly used to manipulate data. For this, LinkedLists have several methods to do certain operations more efficiently.
-*/
-
 import java.util.LinkedList;
 
 public class LinkedLists {

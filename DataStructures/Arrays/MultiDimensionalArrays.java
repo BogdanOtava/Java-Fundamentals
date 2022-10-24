@@ -1,9 +1,5 @@
 package Arrays;
 
-/* 
-A 'multidimensional array' is an array of arrays.
-*/
-
 import java.util.Arrays;
 
 public class MultiDimensionalArrays {

@@ -1,10 +1,5 @@
 package Arrays;
 
-/* 
-'Arrays' are used to store multiple values in a single variable.
-Arrays indexes start at 0.
-*/
-
 import java.util.Arrays;
 
 public class OneDimensionalArrays {

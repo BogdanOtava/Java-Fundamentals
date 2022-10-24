@@ -1,12 +1,5 @@
 package HashSets;
 
-/*
-'HashSets' contain a collection of items where evey item is unique.
-
-Elements inside an HashSet are actually objects. 
-To create a HashSet with a primitive type, the wrapper class is needed: Integer for int, Boolean for booleans, etc.
-*/
-
 import java.util.HashSet;
 
 public class HashSets {

@@ -1,10 +1,5 @@
 package ArrayLists;
 
-/*
-'ArrayList' is a resizable Array.
-The difference between those two is that the size of the built-in Array cannot be modified, while element can be added or removed from an ArrayList.
-*/
-
 import java.util.ArrayList;
 import java.util.Comparator;
 
