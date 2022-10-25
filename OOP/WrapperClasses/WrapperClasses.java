@@ -1,4 +1,4 @@
-package WrapperClasses;
+package OOP.WrapperClasses;
 
 /*
 'Wrapper classes' provide a way to use primitive data types as objects.

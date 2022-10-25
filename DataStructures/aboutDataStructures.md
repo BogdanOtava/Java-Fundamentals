@@ -175,3 +175,19 @@ In order to store multiple values or objects of the same type, **Java** provides
 - to access a **value**, we must know its **key**.
 - uses a technique called **hashing**, which converts a large _string_ to a small _string_ that represents the same _string_ so that the indexing and search operations are faster.
 - **HashMap** also uses **HashSet** internally.
+
+**2. EnumMap**
+
+- specialized implementation of the **Map Interface** for _enumeration types_.
+- it's not **synchronized**.
+- is an **ordered** collection and they are maintained in the **natural order** of their **keys**.
+- **high-performance** implementation, much faster than **HashMap**.
+- internally is represented as **arrays**.
+- doesn't allow _null_ key.
+
+**3. TreeMap**
+
+- map sorted according to the **natural ordering** of its **keys**, or by a **Comparator**.
+- contains only **unique** elements.
+- is **non-synchronized**.
+- cannot have _null_ keys, but can have multiple _null_ values.
