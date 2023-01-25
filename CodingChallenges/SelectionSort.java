@@ -22,6 +22,7 @@ public class SelectionSort {
             array[min] = temp;
         }
     }
+
     public static void main(String[] args) {
 
         int unsortedArray[] = {10, 4, 8, 9, 5, 6, 2, 1, 3, 7};

@@ -23,6 +23,7 @@ public class BinarySearch {
         }
         return -1;
     }
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -33,9 +34,7 @@ public class BinarySearch {
         int target = input.nextInt();
         input.close();
 
-        for(int i = 0, length = sortedArray.length; i < length; i++) {
-            sortedArray[i] = i;
-        }
+        for (int i = 0, length = sortedArray.length; i < length; i++) sortedArray[i] = i;
 
         int index = binarySearch(sortedArray, target);
 

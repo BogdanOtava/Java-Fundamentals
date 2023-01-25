@@ -20,6 +20,7 @@ public class BubbleSort {
             }
         }
     }
+
     public static void main(String[] args) {
 
         int unsortedArray[] = {9, 5, 8, 4, 1, 3, 2, 7, 6, 10};
