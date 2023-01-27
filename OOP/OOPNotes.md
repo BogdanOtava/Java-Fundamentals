@@ -62,7 +62,7 @@ _Non-access modifiers for attributes, methods_:
 - abstract - only for methods and can only be used in abstract classes;
 - transient - attributes and methods are skipped when serializing the object containing them;
 - synchronized - methods can only be accessed by one thread at a time;
-- volatie - the value of an attribute is not cached thread-locally, and is always read from the main memory.
+- volatile - the value of an attribute is not cached thread-locally, and is always read from the main memory.
 
 ### **Constructors**
 
